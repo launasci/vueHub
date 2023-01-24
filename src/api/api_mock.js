@@ -11,7 +11,7 @@ export const api = {
     async search_users(searchstring){
         const result = {
             items: [
-                {login: 'joao'},
+                {login: 'laura'},
                 {login: 'jose'},
             ]
         }
